@@ -6,8 +6,8 @@ Data are by spidering each category, spidering each story, then following up for
 
     ✔ Saved to data/Literotica.jsonl
     ℹ Saved 473,653 stories
-    ℹ Uncompressed filesize 12736536394
-    ℹ Compressed filesize   4426369159
+    ℹ Uncompressed filesize 12,736,536,394
+    ℹ Compressed filesize    4,426,369,159
 
 Data souce temporary hosted at 
 
